@@ -1,0 +1,5 @@
+elk:
+ image: projectomakase/elk
+ ports:
+   - "81:80"
+   - "5043:5043"
